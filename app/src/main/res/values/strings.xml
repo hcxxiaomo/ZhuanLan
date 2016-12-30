@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">专栏</string>
+    <string name="app_name">兄弟博客</string>
     <string name="action_settings">Preference</string>
     <string name="settings_settings">General Settings</string>
     <string name="settings_others">Others</string>
@@ -10,13 +10,13 @@
     <string name="display_format">EEE, MMM d</string>
     <string name="title_activity_about" translatable="false">AboutActivity</string>
     <string name="hello_world" translatable="false">Hello world!</string>
-    <string name="bxbxbai">bxbxbai</string>
+    <string name="app_name_title">兄弟博客</string>
     <string name="comment_count">%d comments</string>
     <string name="all_people">All People</string>
     <string name="days_ago">%d days ago</string>
     <string name="follower">%d flowers</string>
     <string name="post_count" translatable="false">%d 文</string>
-    <string name="user_count">%d专栏</string>
+    <string name="user_count">%d的博客</string>
     <string name="like_count">%d Likes</string>
     <string name="origin_web_page">Origin Web Page</string>
     <string name="recent_news">Article of last week</string>
